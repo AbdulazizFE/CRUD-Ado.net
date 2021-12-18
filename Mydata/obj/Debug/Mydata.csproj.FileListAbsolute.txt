@@ -1,0 +1,8 @@
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\bin\Debug\Mydata.exe.config
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\bin\Debug\Mydata.exe
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\bin\Debug\Mydata.pdb
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\obj\Debug\Mydata.csproj.AssemblyReference.cache
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\obj\Debug\Mydata.csproj.SuggestedBindingRedirects.cache
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\obj\Debug\Mydata.csproj.CoreCompileInputs.cache
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\obj\Debug\Mydata.exe
+C:\Users\Abdulaziz\source\repos\Mydata\Mydata\obj\Debug\Mydata.pdb
